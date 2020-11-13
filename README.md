@@ -35,11 +35,14 @@ Muli       | Light 200/300/400/    | Negrito e Italico
      * index.html
        * Realizado a importação`@import`de fontes.
        * Realizado a importação`@import`de incones.
-       * Criando favicon  cores font:#D0A64F e BG: #242E42.  
+       * Criando favicon  cores font:#D0A64F e BG: #242E42. 
+    
     
 
 ## tarefas 
  O controle das tarefas desse projeto será realizado no Github
+ * Commitado  e enviado para o repositorio.
+ * Crinado o projeto no Github.
 ____
 >Criado por [joaocarloslima](https://github.com/joaocarloslima)  
 Reproduzido por [fabiosbsantos](https://github.com/fabiosbsantos)
