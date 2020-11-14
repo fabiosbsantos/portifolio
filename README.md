@@ -37,12 +37,21 @@ Muli       | Light 200/300/400/    | Negrito e Italico
        * Realizado a importação`@import`de incones.
        * Criando favicon  cores font:#D0A64F e BG: #242E42. 
     
-    
+Links dos criadores das images creditos:
+
+```<span>Photo by <a href="https://unsplash.com/@ffstop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fotis Fotopoulos</a> on <a href="https://unsplash.com/s/photos/developer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<span>Photo by <a href="https://unsplash.com/@baciutudor?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tudor Baciu</a> on <a href="https://unsplash.com/s/photos/developer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+```
 
 ## tarefas 
  O controle das tarefas desse projeto será realizado no Github
  * Commitado  e enviado para o repositorio.
  * Crinado o projeto no Github.
+
+ ## Icones
+ :package: nova funcionalidade
+ :up: atualização
+ :checkered_flag: release
 ____
 >Criado por [joaocarloslima](https://github.com/joaocarloslima)  
 Reproduzido por [fabiosbsantos](https://github.com/fabiosbsantos)
