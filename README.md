@@ -1,4 +1,5 @@
 # portifolio
+
  ## Fabio S.B.Santos.
 
  github: @fabiosbsantos 
@@ -49,9 +50,10 @@ Links dos criadores das images creditos:
  * Crinado o projeto no Github.
 
  ## Icones
- :package: nova funcionalidade
- :up: atualização
- :checkered_flag: release
+ . :package: nova funcionalidade
+ . :up: atualização
+ . :beetle: correção de bug
+ . :checkered_flag: release
 ____
 >Criado por [joaocarloslima](https://github.com/joaocarloslima)  
 Reproduzido por [fabiosbsantos](https://github.com/fabiosbsantos)
